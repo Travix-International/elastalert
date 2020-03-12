@@ -29,7 +29,7 @@
     "fs-extra": "^5.0.0",
     "joi": "^13.1.2",
     "lodash": "^4.15.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "object-resolve-path": "^1.1.1",
     "randomstring": "^1.1.5",
     "raven": "^2.6.1",
